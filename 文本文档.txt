@@ -1,0 +1,8 @@
+	
+首先打开centos虚拟机，然后打开控制窗口，在控制窗口中输入./compile.sh对源程序进行编译
+	
+然后再输入./run.sh +选择运行所需要的条件，即可运行程序运行程序。例如./run.sh customer.txt orders.txt lineitem.txt 2 BUILDING 1995-02-29 1995-04-27 10 BUILDING 1995-03-28 1995-04-27 2
+
+
+
+ps：
